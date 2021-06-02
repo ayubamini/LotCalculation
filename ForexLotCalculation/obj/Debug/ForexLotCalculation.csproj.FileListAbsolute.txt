@@ -1,0 +1,26 @@
+c:\users\aiyoub.nb-n552vx.000\documents\visual studio 2017\Projects\ForexLotCalculation\ForexLotCalculation\bin\Debug\ForexLotCalculation.exe.config
+c:\users\aiyoub.nb-n552vx.000\documents\visual studio 2017\Projects\ForexLotCalculation\ForexLotCalculation\bin\Debug\ForexLotCalculation.exe
+c:\users\aiyoub.nb-n552vx.000\documents\visual studio 2017\Projects\ForexLotCalculation\ForexLotCalculation\bin\Debug\ForexLotCalculation.pdb
+c:\users\aiyoub.nb-n552vx.000\documents\visual studio 2017\Projects\ForexLotCalculation\ForexLotCalculation\obj\Debug\ForexLotCalculation.csprojResolveAssemblyReference.cache
+c:\users\aiyoub.nb-n552vx.000\documents\visual studio 2017\Projects\ForexLotCalculation\ForexLotCalculation\obj\Debug\ForexLotCalculation.Form1.resources
+c:\users\aiyoub.nb-n552vx.000\documents\visual studio 2017\Projects\ForexLotCalculation\ForexLotCalculation\obj\Debug\ForexLotCalculation.Properties.Resources.resources
+c:\users\aiyoub.nb-n552vx.000\documents\visual studio 2017\Projects\ForexLotCalculation\ForexLotCalculation\obj\Debug\ForexLotCalculation.csproj.GenerateResource.Cache
+c:\users\aiyoub.nb-n552vx.000\documents\visual studio 2017\Projects\ForexLotCalculation\ForexLotCalculation\obj\Debug\ForexLotCalculation.exe
+c:\users\aiyoub.nb-n552vx.000\documents\visual studio 2017\Projects\ForexLotCalculation\ForexLotCalculation\obj\Debug\ForexLotCalculation.pdb
+C:\Users\Aiyoub.NB-N552VX.000\documents\visual studio 2017\Projects\ForexLotCalculation\ForexLotCalculation\bin\Debug\ForexLotCalculation.exe.manifest
+C:\Users\Aiyoub.NB-N552VX.000\documents\visual studio 2017\Projects\ForexLotCalculation\ForexLotCalculation\bin\Debug\ForexLotCalculation.application
+C:\Users\Aiyoub.NB-N552VX.000\documents\visual studio 2017\Projects\ForexLotCalculation\ForexLotCalculation\obj\Debug\ForexLotCalculation.exe.manifest
+C:\Users\Aiyoub.NB-N552VX.000\documents\visual studio 2017\Projects\ForexLotCalculation\ForexLotCalculation\obj\Debug\ForexLotCalculation.application
+D:\Programming\Projects\ForexLotCalculation\ForexLotCalculation\bin\Debug\ForexLotCalculation.exe.config
+D:\Programming\Projects\ForexLotCalculation\ForexLotCalculation\bin\Debug\ForexLotCalculation.exe.manifest
+D:\Programming\Projects\ForexLotCalculation\ForexLotCalculation\bin\Debug\ForexLotCalculation.application
+D:\Programming\Projects\ForexLotCalculation\ForexLotCalculation\bin\Debug\ForexLotCalculation.exe
+D:\Programming\Projects\ForexLotCalculation\ForexLotCalculation\bin\Debug\ForexLotCalculation.pdb
+D:\Programming\Projects\ForexLotCalculation\ForexLotCalculation\obj\Debug\ForexLotCalculation.Form1.resources
+D:\Programming\Projects\ForexLotCalculation\ForexLotCalculation\obj\Debug\ForexLotCalculation.Properties.Resources.resources
+D:\Programming\Projects\ForexLotCalculation\ForexLotCalculation\obj\Debug\ForexLotCalculation.csproj.GenerateResource.Cache
+D:\Programming\Projects\ForexLotCalculation\ForexLotCalculation\obj\Debug\ForexLotCalculation.exe.manifest
+D:\Programming\Projects\ForexLotCalculation\ForexLotCalculation\obj\Debug\ForexLotCalculation.application
+D:\Programming\Projects\ForexLotCalculation\ForexLotCalculation\obj\Debug\ForexLotCalculation.exe
+D:\Programming\Projects\ForexLotCalculation\ForexLotCalculation\obj\Debug\ForexLotCalculation.pdb
+D:\Programming\Projects\ForexLotCalculation\ForexLotCalculation\obj\Debug\ForexLotCalculation.csproj.CoreCompileInputs.cache
